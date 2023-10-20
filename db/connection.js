@@ -6,4 +6,4 @@ const sequelize = new Sequelize({
   storage: './db/app.db'
 });
 
-module.exports = sequelize
+module.exports = sequelize;
